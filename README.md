@@ -24,18 +24,7 @@ Users can input their medical details via a simple web interface and get an inst
 
 ✅ Deployed on Streamlit Cloud for easy access
 
-🚀 How to Run
-Step 1: Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/heart-disease-app.git
-cd heart-disease-app
-Step 2: Install Requirements
-bash
-Copy
-Edit
-pip install -r requirements.txt
+ -r requirements.txt
 Step 3: Run the App
 bash
 Copy
