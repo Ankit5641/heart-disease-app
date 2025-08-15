@@ -92,6 +92,9 @@ http://localhost:8501
 
  13) thal: Thalassemia (0–3)
 
+---
+
+
 
 
 
