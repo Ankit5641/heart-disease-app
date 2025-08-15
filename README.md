@@ -91,20 +91,7 @@ http://localhost:8501
  12) ca: Number of Major Vessels (0–3)
 
  13) thal: Thalassemia (0–3)
-
 ---
-
-###  LIVE PREVIEW ::  https://heartly.streamlit.app/
-
-
-
-
-
-
-
-
-
-
 
 
 
